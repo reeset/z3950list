@@ -8061,4 +8061,19 @@
 		<threaded>no</threaded>
 		<search_pause>no</search_pause>
 	</service>
+	<service id="db538">
+		<name>Universidade Estadual Paulista (UNESP - Brazil)</name>
+		<type>z39.50</type>
+		<host>athena.biblioteca.unesp.br</host>
+		<database>uep01</database>
+		<port>9992</port>
+		<syntax>MARC21</syntax>
+		<username></username>
+		<password></password>
+		<structure></structure>
+		<show>yes</show>
+		<persistant>yes</persistant>
+		<threaded>no</threaded>
+		<search_pause>no</search_pause>
+	</service>
 </mebatch_db>
