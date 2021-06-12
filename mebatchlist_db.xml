@@ -8064,9 +8064,9 @@
 	<service id="db538">
 		<name>Universidade Estadual Paulista (UNESP - Brazil)</name>
 		<type>z39.50</type>
-		<host>athena.biblioteca.unesp.br</host>
-		<database>uep01</database>
-		<port>9992</port>
+		<host>unesp.alma.exlibrisgroup.com</host>
+		<database>55UNESP_INST</database>
+		<port>1921</port>
 		<syntax>MARC21</syntax>
 		<username></username>
 		<password></password>
